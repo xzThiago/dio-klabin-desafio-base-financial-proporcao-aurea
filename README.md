@@ -25,14 +25,14 @@ O dashboard é composto por três páginas analíticas distintas:
 ### 1. Sales Report (Visão de Vendas)
 Focada no volume de receita e tendências temporais.
 * **Destaques:** Gráfico de área para evolução mensal e matriz detalhada cruzando segmentos e países.
-![Sales Report](image_57d781.jpg)
+![Sales Report](desafio_2_sales_report.png)
 
 ### 2. Profit Report (Visão de Lucros)
 Focada na decomposição do lucro para identificar ofensores e impulsionadores.
 * **Destaques:**
     * **Árvore de Decomposição (Decomposition Tree):** Permite explorar o lucro hierarquicamente (País > Segmento > Produto).
     * **Gráfico de Cascata (Waterfall):** Essencial para visualizar o acúmulo de lucro por trimestre.
-![Profit Report](image_57d75c.jpg)
+![Profit Report](desafio_2_profit_report.png)
 
 ### 3. Discount & Efficiency (Novo!)
 Uma página inédita criada para analisar a relação entre descontos concedidos e a margem de lucro.
@@ -40,12 +40,11 @@ Uma página inédita criada para analisar a relação entre descontos concedidos
     * **Gráfico de Dispersão (Scatter Plot):** Relaciona *Vendas Totais* vs. *Lucro*, permitindo identificar outliers (segmentos com muita venda e pouco lucro).
     * **Análise de Margem:** Gráficos de barra mostrando a margem percentual por produto.
     * **Tabela de Eficiência:** Mostra a % de Desconto médio aplicado por país e segmento.
-![Discount Report](image_57d726.jpg)
+![Discount Report](desafio_2_discount_report.png)
 
 ---
 
 ## 🛠️ Ferramentas e Técnicas
 * **Microsoft Power BI:** Construção completa do dashboard.
-* **Figma / PowerPoint (Opcional):** Utilizados para prototipagem de fundos e ícones (caso tenha usado).
 * **UX Design:** Aplicação de princípios de *Gestalt* (proximidade e semelhança) para agrupar visuais relacionados.
 
